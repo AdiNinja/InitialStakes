@@ -1,5 +1,5 @@
 # Initial Stakes
-This is the first repository of my Github account.Hence it contains codes of certain classical DP and Greedy algorithms,various Sorting and Searching algorithms and also implementation of certain Data Structures in JAVA.
+This is the first repository of my Github account.Hence it contains codes of certain classical DP and Greedy algorithms,various Sorting and Searching algorithms and also implementation of certain Data Structures in JAVA.Also since, I am a beginner it may contain lot of redundant and unoptimized code.
 
 
 # Contribution :
